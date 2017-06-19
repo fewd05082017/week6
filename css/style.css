@@ -51,6 +51,9 @@ nav a.current {
   color: #F8FF73;
 }
 
+
+
+
 .ipsum {
   background-color: #FFFFFF;
   padding: 40px;
@@ -59,8 +62,10 @@ nav a.current {
 
 p {
   padding-bottom: 14px;
-  display: none;
-}
+/*  display: none;
+*/}
+
+
 
 #form {
   margin: 20px 0;
